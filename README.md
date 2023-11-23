@@ -18,7 +18,7 @@ Currently a senior majoring in IT at the University of North Alabama
 
 <p align="left"> <a href="https://www.github.com/hrantgartley" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a></p>
 
-### Badges
+### Badges 
 
 <b>My GitHub Stats</b>
 
