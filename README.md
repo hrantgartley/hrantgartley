@@ -2,10 +2,10 @@
 
 ## Developer in training
 
-Currently a senior majoring in IT at the University of North Alabama
+Recent Graduate from the University of North Alabama
 
-- 🌍  I'm based in Florence, AL
-- 🧠  I'm learning NodeJS, Rust, WX-Wdigets in C++, and ReactJS
+- 🌍  I'm based in Birmingham, AL
+- 🧠  I'm learning NodeJS, Rust, Spring Boot, and ReactJS
 - 🤝  I'm open to collaborating on projects that help me learn understanding Rust, C++, and those utilizing NodeJS
 
 ### Skills
